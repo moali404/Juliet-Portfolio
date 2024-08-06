@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: juliet-portfolio
+  description: A personal portfolio website for Juliet
+  annotations:
+    github.com/project-slug: moali404/Juliet-Portfolio
+spec:
+  type: website
+  owner: your-team
+  lifecycle: production
