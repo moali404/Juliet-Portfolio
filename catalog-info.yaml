@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: moali404/Juliet-Portfolio
 spec:
   type: website
-  owner: your-team
+  owner: moali404
   lifecycle: production
