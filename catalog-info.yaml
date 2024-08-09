@@ -5,6 +5,8 @@ metadata:
   description: A personal portfolio website for Juliet
   annotations:
     github.com/project-slug: moali404/Juliet-Portfolio
+    backstage.io/kubernetes-id: juliet-portfolio
+    backstage.io/kubernetes-namespace: Juliet-Portfolio
 spec:
   type: website
   owner: guests
