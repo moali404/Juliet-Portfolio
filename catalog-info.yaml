@@ -9,6 +9,6 @@ metadata:
     backstage.io/kubernetes-namespace: Juliet-Portfolio
     kubernetes.io/api-server: https://127.0.0.1:58039
 spec:
-  type: kubernetes-cluster
+  type: website
   owner: user:guests
   lifecycle: experimental
