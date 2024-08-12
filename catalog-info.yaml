@@ -8,7 +8,7 @@ metadata:
     backstage.io/kubernetes-id: juliet
     backstage.io/kubernetes-namespace: Juliet-Portfolio
     kubernetes.io/api-server: https://127.0.0.1:50442
-    kubernetes.io/website-url: http://127.0.0.1:49968
+    kubernetes.io/website-url: http://127.0.0.1:64611
 spec:
   type: website
   owner: user:guests
