@@ -7,8 +7,8 @@ metadata:
     github.com/project-slug: moali404/Juliet-Portfolio
     backstage.io/kubernetes-id: juliet
     backstage.io/kubernetes-namespace: Juliet-Portfolio
-    kubernetes.io/api-server: https://127.0.0.1:50442
-    kubernetes.io/website-url: http://127.0.0.1:64611
+    kubernetes.io/api-server: https://127.0.0.1:50303
+    kubernetes.io/website-url: http://127.0.0.1:50385
 spec:
   type: website
   owner: user:guests
